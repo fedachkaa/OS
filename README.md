@@ -1,4 +1,4 @@
-# OS
+# Звіт до лабораторної роботи №2
 
 1)	Пройти гру Git Learn:
 ![Image text](https://github.com/fedachkaa/OS/blob/lab_works_one_two/Screenshots/1.png)
